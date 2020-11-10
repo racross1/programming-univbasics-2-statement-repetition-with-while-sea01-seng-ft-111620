@@ -6,5 +6,5 @@ while count >= 1 do
 end
 puts "Happy New Year!"
 
-def count 
+
   
